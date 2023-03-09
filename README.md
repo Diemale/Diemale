@@ -1,17 +1,42 @@
 
 <h1 align="center">Hi there 👋, I'm Diego</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="300"/>
+
+<div id="img-repetida1">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+</div>
+<div id="img-repetida2">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+</div>
+<div id="img-repetida3">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="240"/>
 </div>
 
-
 <hr>
-  
+
+## 🌐 Socials:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/diego-ledesma-00b323210/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+---
+
+## 🖥️ Technologies:
+
+
+----
+
+
   
 </div>
 
