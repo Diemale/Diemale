@@ -1,7 +1,18 @@
-### Hi there 👋, I'm Diego
 
+<h1 align="center">Hi there 👋, I'm Diego</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="300"/>
+</div>
+
+
+<hr>
+  
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/diego-ledesma-00b323210/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 
 <!--
