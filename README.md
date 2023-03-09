@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Diego
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif width="100"/>
+</div>
 
 <!--
 **Diemale/Diemale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
